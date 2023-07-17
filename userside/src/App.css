@@ -1,0 +1,11 @@
+body{
+  background-image: url('https://img.freepik.com/free-photo/beautiful-view-greenery-bridge-forest-perfect-background_181624-17827.jpg?w=2000');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+@media only screen and (max-width: 480px) {
+  body{
+    background-size: 100% 100%;
+  }
+}

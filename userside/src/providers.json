@@ -1,0 +1,20 @@
+[
+    {
+        "id": 100001,
+        "firstname": "XYZ",
+        "lastname": "UVW",
+        "position": "CEO",
+        "company": {
+            "company_name": "Jabbersphere",
+            "address": "1081 Arapahoe Court",
+            "address2": "",
+            "city": "Indore",
+            "state": "MP",
+            "postal_code": "77234",
+            "phone": "908-765-1234",
+            "email": "vpthe@gmail.com",
+            "description": "Hello",
+            "tagline": "World"
+        }
+    }
+]
